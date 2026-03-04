@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         txtNum2 = findViewById(R.id.txtNum2);
         lblRespuesta = findViewById(R.id.lblRespuesta);
 
-        1
+
         btnCalculator.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
